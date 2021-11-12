@@ -1,6 +1,5 @@
 # IS201Class
 
-<!DOCTYPE html>
 <html>
 <body>
 
