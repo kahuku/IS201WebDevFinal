@@ -15,6 +15,7 @@
 
 body {
     background-color: #CCCCCC;
+    margin: 0;
 }
 
 .tabHead {
@@ -22,6 +23,6 @@ body {
     border: 10px solid lightblue;
     z-index: 1;
     top: 0px;
-    bottom: 50px;
     padding: 0;
+    margin: 0;
 }
