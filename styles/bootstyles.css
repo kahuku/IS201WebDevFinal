@@ -1,0 +1,27 @@
+.tab {
+    width: 97%;
+    /* background-color: blue; */
+    padding: 20px;
+}
+
+.tab1 {
+    width: 48%;
+    float: left;
+}
+.tab2 {
+    width: 48%;
+    float: right;
+}
+
+body {
+    background-color: #CCCCCC;
+}
+
+.tabHead {
+    background-color: lightblue;
+    border: 10px solid lightblue;
+    z-index: 1;
+    top: 0px;
+    bottom: 50px;
+    padding: 0;
+}
