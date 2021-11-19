@@ -57,3 +57,7 @@
 .noMargin {
     margin: 0;   
 }
+
+.about {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
