@@ -2,6 +2,7 @@
     width: 97%;
     /* background-color: blue; */
     padding: 20px;
+    padding-bottom: 1200px;
 }
 
 .tab1 {
@@ -20,9 +21,27 @@ body {
 
 .tabHead {
     background-color: lightblue;
-    border: 10px solid lightblue;
+    border: 5px solid lightblue;
     z-index: 1;
     top: 0px;
     padding: 0;
     margin: 0;
+}
+
+.tabP {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12;
+}
+
+.tabFoot {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100;
+    bottom: 0px;
+    border: 1px #888888 solid;
+    text-align: center;
+    background-color: #888888;
+}
+
+.tabH1 {
+    padding: 0px;
 }
