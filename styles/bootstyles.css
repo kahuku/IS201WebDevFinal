@@ -20,12 +20,14 @@ body {
 }
 
 .tabHead {
-    background-color: lightblue;
-    border: 5px solid lightblue;
+    background-color: #001c3b;
+    border: 5px solid #001c3b;
     z-index: 1;
     top: 0px;
     padding: 0;
     margin: 0;
+    height: 80px;
+    color: white;
 }
 
 .tabP {
@@ -44,4 +46,25 @@ body {
 
 .tabH1 {
     padding: 0px;
+    width: 45%;
+    /* border: solid 1px yellow; */
+    margin: 0;
+    float: left;
+    height: 40px;
+}
+
+.tabLink:link {
+    color: white;
+    text-decoration: none;
+}
+
+.tabLink:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.tabRef {
+    float: right;
+    font-size: 16pt;
+    /* border: solid 1px red; */
 }
