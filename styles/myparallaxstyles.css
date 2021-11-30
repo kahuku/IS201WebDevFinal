@@ -134,3 +134,22 @@ body, html{
 .low {
   top:80%;
 }
+
+@media only screen and (max-width: 600px) {
+  .header-filter {
+     background-size: contain;
+     background-repeat: no-repeat;
+  }
+  .page-header {
+     min-height: auto!important;
+     margin-top: 65px;
+  }
+  .ptext{
+    font-size: 10px;
+    width: 75%;
+  }
+  .ptext3 .border.trans {
+    font-size: 10px;
+    width: 78%;
+  }
+ }
